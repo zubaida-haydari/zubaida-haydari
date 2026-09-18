@@ -31,34 +31,31 @@
 ### Data Analysis & Programming
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,pandas,mysql&theme=dark" alt="Python, Pandas, MySQL" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-1E3A5F?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-1E3A5F?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Statistics-2563EB?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <sub>Python · Pandas · MySQL</sub>
 </p>
 
 ### Visualization & Business Intelligence
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tableau-1E3A5F?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-334155?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Looker_Studio-334155?style=for-the-badge&logo=looker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Sheets-1E3A5F?style=for-the-badge&logo=googlesheets&logoColor=white" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=tableau,seaborn,looker&theme=dark" alt="Tableau, Seaborn, Looker Studio" />
+</p>
+
+<p align="center">
+  <sub>Tableau · Seaborn · Looker Studio</sub>
 </p>
 
 ### Data Platforms & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,bigquery,jupyter&theme=dark" alt="Git, GitHub, BigQuery, Jupyter" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Google_Colab-334155?style=for-the-badge&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/BigQuery-1E3A5F?style=for-the-badge&logo=googlebigquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-334155?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <sub>Git · GitHub · BigQuery · Jupyter</sub>
 </p>
 
 ---
