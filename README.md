@@ -71,14 +71,12 @@ Data Platforms & Tools
   <img src="https://streak-stats.demolab.com?user=zubaida-haydari&hide_border=true&background=141321&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4&sideLabels=F8F8F2&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A9A9B3" />
 </p>
 
-<p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zubaida-haydari&theme=radical" />
-</p>
-
 🐍 Contribution Snake
 
+<!-- Requires a successful run of .github/workflows/snake.yml publishing dist/snake.svg to the output branch. -->
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zubaida-haydari/zubaida-haydari/output/snake.svg" alt="Contribution Snake" />
+  <img width="100%" src="https://raw.githubusercontent.com/zubaida-haydari/zubaida-haydari/output/snake.svg" alt="Pink snake animation of my GitHub contributions" />
 </p>
 
 📫 Connect with Me
