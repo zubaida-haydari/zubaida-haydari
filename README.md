@@ -79,7 +79,7 @@
 
 <!-- Requires a successful run of .github/workflows/snake.yml publishing dist/snake.svg to the output branch. -->
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/zubaida-haydari/zubaida-haydari/output/snake.svg?v=2" alt="Ice-blue contribution snake" />
+  <img width="100%" src="https://raw.githubusercontent.com/zubaida-haydari/zubaida-haydari/output/snake.svg?v=iceblue4" alt="Ice-blue contribution snake" />
 </p>
 
 ---
