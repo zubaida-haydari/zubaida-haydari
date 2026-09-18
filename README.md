@@ -66,11 +66,11 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/zubaida-haydari/zubaida-haydari/output/streak.svg" alt="Contribution totals and streaks for the last 12 months" />
+  <img src="https://streak-stats.demolab.com?user=zubaida-haydari&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/zubaida-haydari/zubaida-haydari/output/activity.svg" alt="Weekly GitHub contributions during the last 12 months" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zubaida-haydari&theme=tokyonight" alt="GitHub Activity Summary" />
 </p>
 
 ---
